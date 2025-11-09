@@ -1,0 +1,5 @@
+{
+  "name": "Vision Chat",
+  "description": "A chat application powered by Google's Gemini API that allows users to have conversations, ask questions about uploaded images, and get information from attached text files.",
+  "requestFramePermissions": []
+}
