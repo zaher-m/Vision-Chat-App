@@ -2,6 +2,8 @@
 
 Vision Chat is a modern, full-featured chat application that leverages Google's Gemini API. It provides a user-friendly interface for engaging in text-based conversations, analyzing images, and asking questions about the content of uploaded text files. This project serves as a comprehensive example of building a multi-modal AI application with React and TypeScript.
 
+![Sample Usage](image.png)
+
 ## Features
 
 - **Conversational AI**: Engage in dynamic, context-aware conversations powered by the `gemini-2.5-flash` model.
